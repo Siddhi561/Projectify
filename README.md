@@ -170,8 +170,8 @@ task_manager/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/projectify.git
-cd projectify
+git clone https://github.com/Siddhi561/Projectify
+cd Projectify
 ```
 
 ### 2. Backend setup
